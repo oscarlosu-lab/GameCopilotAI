@@ -1,0 +1,15 @@
+{
+  "server_url": "http://127.0.0.1:8080",
+  "active_game": "Aniimo",
+  "autopilot_goal": "Explore, interact, or advance safely toward the objective.",
+  "tts_enabled": true,
+  "tts_rate": 185,
+  "language": "es",
+  "hotkeys": {
+    "talk": "f8",
+    "vision": "f9",
+    "autopilot": "f10",
+    "stop": "f12"
+  }
+}
+

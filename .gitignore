@@ -1,0 +1,17 @@
+# Environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# Personal / runtime data
+client/config.json
+server/data/
+server/guides/
+*.db
+*.db-wal
+*.db-shm
+*.log
+

@@ -1,5 +1,10 @@
 # GameCopilot AI
 
+[![License](https://img.shields.io/badge/License-Non--Commercial%20%2B%20Attribution-f59e0b?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/oscarlosu-lab/GameCopilotAI?style=flat-square&color=10b981)](https://github.com/oscarlosu-lab/GameCopilotAI/commits/main)
+[![Stars](https://img.shields.io/github/stars/oscarlosu-lab/GameCopilotAI?style=flat-square&logo=github&color=yellow)](https://github.com/oscarlosu-lab/GameCopilotAI/stargazers)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Project-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/oscarlosu)
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Project-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/oscarlosu)
 
 **Local AI Gaming Companion** powered by Ollama, RAG (per-game auto-scraped wikis/guides), Whisper voice input, real-time screen vision, a click-through HUD overlay, and an optional Autopilot controller.
@@ -58,3 +63,6 @@ cd client
 python -m pytest tests/
 ```
 
+## License
+
+Non-Commercial Source-Available with Mandatory Attribution to **oscarlosu-lab** (full or partial use). Commercial use prohibited without written authorization. See [LICENSE](LICENSE).
